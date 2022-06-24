@@ -1,4 +1,7 @@
-# Catch Webhook and Delete about that anything.
+# CYBAVO Discord
+## Catch Webhook and Delete about that anything.
+
+## Catch QRCode and reply QRCode content on discord
 
 # Step
 ## Pre-work
